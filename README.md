@@ -79,6 +79,9 @@ podman rm <container_id>
 docker rm <container_id>
 
 📧 Maintainer
+
 Vatsal Thakor
+
 Linux Rabbit (OPC) Private Limited
+
 Email: vatsal@linuxrabbit.com
