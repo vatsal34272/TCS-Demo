@@ -20,6 +20,7 @@ Make sure you have **Podman** or **Docker** installed.
 
 # Clone the repository (if not already)
 git clone https://github.com/vatsal34272/TCS-Demo.git
+
 cd TCS-Demo
 
 # Build the container image
