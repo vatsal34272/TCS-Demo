@@ -19,8 +19,8 @@ It serves a basic `index.html` page for quick testing or demonstration purposes.
 Make sure you have **Podman** or **Docker** installed.
 
 # Clone the repository (if not already)
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/vatsal34272/TCS-Demo.git
+cd TCS-Demo
 
 # Build the container image
 podman build -t ubi-webserver .
@@ -42,6 +42,7 @@ You should see the web page!
 📈 Basic Workflow
 
 flowchart TD
+
     A[Start]  --> B  [Clone Repository]
     B         --> C  [Build Container Image]
     C         --> D  [Run the Container]
@@ -75,3 +76,8 @@ docker stop <container_id>
 podman rm <container_id>
 # or
 docker rm <container_id>
+
+📧 Maintainer
+Vatsal Thakor
+Linux Rabbit (OPC) Private Limited
+Email: vatsal@linuxrabbit.com
